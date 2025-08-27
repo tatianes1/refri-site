@@ -10,7 +10,7 @@ Slider de imagens com botões **"próximo"** e  **"anterior"**
 - Design moderno e minimalista  
 
 
-*Acesse o site pronto: [link](https://previsao-do-tempo-projeto.netlify.app/)*
+*Acesse o site pronto: [link](https://refri-projeto.netlify.app/)*
 
 
 
