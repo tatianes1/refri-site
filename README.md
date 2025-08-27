@@ -11,7 +11,7 @@ Slider de imagens com botões **"próximo"** e  **"anterior"**
 
 
 *Acesse o site pronto: [link](https://previsao-do-tempo-projeto.netlify.app/)*
-<a href="https://www.seusite.com" target="_blank">Acesse meu site</a>
+<a href="https://app.netlify.com/projects/previsao-do-tempo-projeto/overview" target="_blank">Acesse meu site</a>
 
 
 <img width="1362" height="625" alt="Captura de tela 2025-08-27 120347" src="https://github.com/user-attachments/assets/ec2d7636-fc30-40c3-9f9a-9679b097deef" />
